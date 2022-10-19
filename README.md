@@ -1,5 +1,5 @@
 ### Hi there 👋
-![delovoyhomie GitHub stats](https://github-readme-stats.vercel.app/api?username=Gusarich&show_icons=true&theme=radical)
+![delovoyhomie GitHub stats](https://github-readme-stats.vercel.app/api?username=delovoyhomie&show_icons=true&theme=radical)
 <!--
 **delovoyhomie/delovoyhomie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
