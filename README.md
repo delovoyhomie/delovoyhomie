@@ -8,5 +8,5 @@
 - 🌱 I’m currently learning **TON**
 - 👯 I’m looking to collaborate on **TON**
 - 🤔 I can help with **TON**
-- 📫 How to reach me: https://t.me/delovoyslava
+- 📫 How to reach me: [Telegram](https://t.me/delovoyslava)
 
