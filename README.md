@@ -1,12 +1,6 @@
 ![delovoyhomie GitHub stats](https://github-readme-stats.vercel.app/api?username=delovoyhomie&show_icons=true&theme=radical)
 
+![ton_logo_dark_background](https://user-images.githubusercontent.com/42098239/201576868-7c0cea9a-a9ca-452c-ac18-b6cd30ceff0c.svg)
 
-
-### Hi there 👋
-
-- 🔭 I’m currently working on **TON**
-- 🌱 I’m currently learning **TON**
-- 👯 I’m looking to collaborate on **TON**
-- 🤔 I can help with **TON**
-- 📫 How to reach me: [Telegram](https://t.me/delovoyslava)
+How to reach me: [Telegram](https://t.me/delovoyslava)
 
