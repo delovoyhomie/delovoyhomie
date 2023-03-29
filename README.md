@@ -2,4 +2,6 @@
 
 ### How to reach me: [Telegram](https://t.me/delovoyslava)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delovoyhomie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delovoyhomie)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Top align](https://github-readme-streak-stats.herokuapp.com/?user=delovoyhomie&)](https://github.com/anuraghazra/github-readme-stats) 
